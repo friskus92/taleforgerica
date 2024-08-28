@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 600px;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .logo img {
+            max-width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            text-align: left;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="gerica-logo.png" alt="Gerica Logo"> <!-- Sett inn logoens filsti -->
+        </div>
+        <h1>Gerica</h1>
+        <p>Forestill deg Gerica, et program som har vært en pålitelig følgesvenn i mange år. Dette er et system som har hjulpet utallige helsearbeidere med å håndtere deres krevende oppgaver, dag ut og dag inn. Fra den første implementeringen, der det ga en følelse av kontroll og orden i en ellers hektisk hverdag, har Gerica stått ved brukernes side, år etter år.</p>
+        <p>Men som alle trofaste verktøy, har tiden også påvirket Gerica. Teknologien har utviklet seg, nye løsninger og plattformer har kommet til, og kravene til effektivitet, sikkerhet og brukervennlighet har blitt stadig strengere. Gerica, som en gang var en pioner, har nådd et punkt hvor den ikke lenger kan møte alle de moderne behovene på samme måte som før.</p>
+        <p>Nå står Gerica ved terskelen til en ny begynnelse. Utviklerne, med en dyp forståelse av systemets viktige rolle i helsevesenet, har tatt på seg oppgaven med å fornye og revitalisere det. De har nøye vurdert det som har gjort Gerica så verdifullt gjennom årene, og med respekt for programmets arv, har de skapt en oppdatert versjon som er skreddersydd for dagens teknologiske landskap, samtidig som det er rustet for fremtidens utfordringer.</p>
+        <p>Når den nye versjonen av Gerica lanseres, føles det som å møte en gammel venn som har gjennomgått en forvandling. Grensesnittet er nytt, funksjonaliteten er forbedret, men kjernen av det som gjør Gerica uunnværlig forblir. Helsearbeidere vil oppdage at selv om systemet har fått en moderne drakt, er det fortsatt det samme pålitelige verktøyet som de har stolt på gjennom årene.</p>
+        <p>Denne nye starten for Gerica er ikke bare en oppgradering; det er en anerkjennelse av programmets lange historie og betydning. Det er en mulighet til å bygge videre på en sterk arv og sikre at Gerica fortsetter å være en uvurderlig ressurs i helsevesenet i mange år fremover. Med denne fornyelsen er Gerica klar til å møte morgendagens utfordringer, sterkere og mer relevant enn noen gang før.</p>
+    </div>
+</body>
+</html>
